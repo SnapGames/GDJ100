@@ -12,9 +12,10 @@ the subprojects of the courses are :
 | [GDJ103](https://github.com/SnapGames/GDJ103 "open the project") | GDJ103 |  | Published |
 | [GDJ104](https://github.com/SnapGames/GDJ104 "open the project") | GDJ104 |  | Published |
 | [GDJ105](https://github.com/SnapGames/GDJ105 "open the project") | GDJ104 |  | WIP       |
-| [GDJ106](# "open the project") | GDJ106 |  | TODO |
-| [GDJ107](# "open the project") | GDJ106 |  | TODO |
-| [GDJ108](# "open the project") | GDJ106 |  | TODO |
+| GDJ106 | GDJ106 |  | TODO |
+| GDJ107 | GDJ106 |  | TODO |
+| GDJ108 | GDJ106 |  | TODO |
+| GDJ109 | GDJ109 |  | TODO |
 
  
 McG.
