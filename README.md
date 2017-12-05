@@ -13,8 +13,8 @@ The parts of the courses are :
 | [GDJ104](https://github.com/SnapGames/GDJ104 "open the project") | [GDJ104](https://docs.google.com/document/d/1Ys9-tHikfPL5gzlU-S9_5vf6mONBCU-cC0wdYC_RvlY/edit?usp=sharing "Open the google Docs for GDJ104") | Machine de jeu à état  / Game state machine| Published |
 | [GDJ105](https://github.com/SnapGames/GDJ105 "open the project") | [GDJ105](https://docs.google.com/document/d/1FdnuiHUz8cQemaLqGSopMBWqcSWqEbOemqUX0j5KSEs/edit?usp=sharing "Open the google Docs for GDJ105") | Resources UI et i18n / Resources,UI & i18n | WIP       |
 | GDJ106 | GDJ106 | Parametres et console / parameters and console | TODO |
-| GDJ107 | GDJ106 | Détection de collision / Collision detection | TODO |
-| GDJ108 | GDJ106 | Camera et suiv d'objet / Camera and object tracker. | TODO |
+| GDJ107 | GDJ107 | Détection de collision / Collision detection | TODO |
+| GDJ108 | GDJ108 | Camera et suiv d'objet / Camera and object tracker. | TODO |
 | GDJ109 | GDJ109 | Tilemap et comportements / Tilemap and behaviors | TODO |
 | GDJ110 | GDJ110 | Systel de gestion de particules / Particles System | TODO |
 | GDJ1XX | GDJ1XX | Outils et bonnes pratiques / Tools and good practices | TODO |
