@@ -1,9 +1,9 @@
 # GDJ100
+
 Starter for the Game Development with Java courses series from [GameDev Basics
 Java](https://classroom.google.com/c/NzI2ODQ3NjU2MFpa "open the Google classroom").
 
 The parts of the courses are :
-
 
 | Git    | Course | Description               | Status  |
 |:------:|:------:|:--------------------------|:-------:|
@@ -16,11 +16,9 @@ The parts of the courses are :
 | [GDJ107](https://github.com/SnapGames/GDJ107 "open the project") | GDJ107 | Détection de collision / Collision detection | WIP |
 | GDJ108 | GDJ108 | Camera et suiv d'objet / Camera and object tracker. | TODO |
 | GDJ109 | GDJ109 | Tilemap et comportements / Tilemap and behaviors | TODO |
-| [GDJ110](https://github.com/SnapGames/GDJ110 "open the project") | GDJ110 | Systel de gestion de particules / Particles System | WIP |
+| [GDJ110](https://github.com/SnapGames/GDJ110 "open the project") | GDJ110 | System de gestion de particules / Particles System | WIP |
 | GDJ1XX | GDJ1XX | Outils et bonnes pratiques / Tools and good practices | TODO |
 
-
- 
 McG.
 
 (c) 2017 - SnapGames
