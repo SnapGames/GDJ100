@@ -14,10 +14,15 @@ The parts of the courses are :
 | [GDJ105](https://github.com/SnapGames/GDJ105 "open the project") | [GDJ105](https://docs.google.com/document/d/1FdnuiHUz8cQemaLqGSopMBWqcSWqEbOemqUX0j5KSEs/edit?usp=sharing "Open the google Docs for GDJ105") | Resources UI et i18n / Resources,UI & i18n | WIP       |
 | [GDJ106](https://github.com/SnapGames/GDJ106 "open the project") | GDJ106 | Parametres et console / parameters and console | WIP |
 | [GDJ107](https://github.com/SnapGames/GDJ107 "open the project") | GDJ107 | Détection de collision / Collision detection | WIP |
-| GDJ108 | GDJ108 | Camera et suiv d'objet / Camera and object tracker. | TODO |
+| GDJ108 | GDJ108 | Camera et suivi d'objet / Camera and object tracker. | TODO |
 | GDJ109 | GDJ109 | Tilemap et comportements / Tilemap and behaviors | TODO |
-| [GDJ110](https://github.com/SnapGames/GDJ110 "open the project") | GDJ110 | System de gestion de particules / Particles System | WIP |
-| GDJ1XX | GDJ1XX | Outils et bonnes pratiques / Tools and good practices | TODO |
+| GDJ110 | GDJ110 | Moteur de Physique basique / Basic Physic Engine | TODO |
+| [GDJ111](https://github.com/SnapGames/GDJ111 "open the project") | GDJ111 | System de gestion de particules / Particles System | WIP |
+| GDJ112 | GDJ112 | Musiques et Sons / Musics and Sounds | TODO |
+| GDJ113 | GDJ113 | Outils et bonnes pratiques / Tools and good practices | TODO |
+
+
+
 
 McG.
 
