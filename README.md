@@ -17,7 +17,7 @@ The parts of the courses are :
 | GDJ108 | GDJ108 | Camera et suivi d'objet / Camera and object tracker. | TODO |
 | GDJ109 | GDJ109 | Tilemap et comportements / Tilemap and behaviors | TODO |
 | GDJ110 | GDJ110 | Moteur de Physique basique / Basic Physic Engine | TODO |
-| [GDJ111](https://github.com/SnapGames/GDJ111 "open the project") | GDJ111 | Systèms de particules er effets spéciaux/ Particles System  and SFX | WIP |
+| [GDJ111](https://github.com/SnapGames/GDJ111 "open the project") | GDJ111 | Systèmes de particules et effets spéciaux/ Particles System  and SFX | WIP |
 | GDJ112 | GDJ112 | Musiques et Sons / Musics and Sounds | TODO |
 | GDJ113 | GDJ113 | Outils et bonnes pratiques / Tools and good practices | TODO |
 
